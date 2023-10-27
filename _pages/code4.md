@@ -49,3 +49,15 @@ Database for the paper “The mass formulas of linear codes with various hull di
 [[7, 2, 3]](https://AHU-coding.github.io/files/2-[7,2,3]-3.txt), [[7, 3, 3]](https://AHU-coding.github.io/files/2-[7,3,3]-3.txt), [[7, 4, 3]](https://AHU-coding.github.io/files/2-[7,4,3]-3.txt), [[7, 5, 2]](https://AHU-coding.github.io/files/2-[7,5,2]-3.txt)  
 [[8, 2, 6]](https://AHU-coding.github.io/files/2-[8,2,6]-3.txt), [[8, 3, 5]](https://AHU-coding.github.io/files/2-[8,3,5]-3.txt), [[8, 4, 4]](https://AHU-coding.github.io/files/2-[8,4,4]-3.txt), [[8, 5, 3]](https://AHU-coding.github.io/files/2-[8,5,3]-3.txt), [[8, 6, 2]](https://AHU-coding.github.io/files/2-[8,6,2]-3.txt)    
 [[9, 2, 6]](https://AHU-coding.github.io/files/2-[9,2,6]-3.txt), [[9, 3, 5]](https://AHU-coding.github.io/files/2-[9,3,5]-3.txt), [[9, 4, 4]](https://AHU-coding.github.io/files/2-[9,4,4]-3.txt), [[9, 5, 3]](https://AHU-coding.github.io/files/2-[9,5,3]-3.txt), [[9, 6, 2]](https://AHU-coding.github.io/files/2-[9,6,2]-3.txt), [[9, 7, 2]](https://AHU-coding.github.io/files/2-[9,7,2]-3.txt)  
+
+### Table 3: Ternary linear codes with three-dimensional hull (h=3)
+
+[[7, 3]](https://AHU-coding.github.io/files/3-[7,3]-3.txt), [[7, 4]](https://AHU-coding.github.io/files/3-[7,4]-3.txt)  
+[[8, 3]](https://AHU-coding.github.io/files/3-[8,3]-3.txt), [[8, 4]](https://AHU-coding.github.io/files/3-[8,4]-3.txt), [[8, 5]](https://AHU-coding.github.io/files/3-[8,5]-3.txt)  
+[[9, 3]](https://AHU-coding.github.io/files/3-[9,3]-3.txt), [[9, 4]](https://AHU-coding.github.io/files/3-[9,4]-3.txt), [[9, 5]](https://AHU-coding.github.io/files/3-[9,5]-3.txt), [[9, 6]](https://AHU-coding.github.io/files/3-[9,6]-3.txt)  
+
+### Table 3': Optimal ternary linear codes with three-dimensional hull (h=3)
+
+[[7, 3, 3]](https://AHU-coding.github.io/files/3-[7,3,3]-3.txt), [[7, 4, 2]](https://AHU-coding.github.io/files/3-[7,4,2]-3.txt)  
+[[8, 3, 3]](https://AHU-coding.github.io/files/3-[8,3,3]-3.txt), [[8, 4, 3]](https://AHU-coding.github.io/files/3-[8,4,3]-3.txt), [[8, 5, 2]](https://AHU-coding.github.io/files/3-[8,5,2]-3.txt)    
+[[9, 3, 6]](https://AHU-coding.github.io/files/3-[9,3,6]-3.txt), [[9, 4, 5]](https://AHU-coding.github.io/files/3-[9,4,5]-3.txt), [[9, 5, 4]](https://AHU-coding.github.io/files/3-[9,5,4]-3.txt), [[9, 6, 3]](https://AHU-coding.github.io/files/3-[9,6,3]-3.txt)  
