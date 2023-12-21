@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Database for the paper “The mass formulas of linear codes with various hull dimensions and related classification”
+Database for the paper “A mass formula of linear codes with prescribed hull dimension and related classification”
 
 ### Table 1: Ternary linear codes with one-dimensional Euclidean hull (h=1)
 
