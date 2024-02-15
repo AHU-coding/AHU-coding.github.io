@@ -18,16 +18,25 @@ E-mail: lishitao0216@163.com
 ### 2020.09~2022.06, Master's degree in mathematics, Anhui University.
 ### 2016.09~2020.06, Bachelor's degree in Mathematics, Anhui University.
 
-## Preprints
+## Preprints  
 
+$1.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, 2023, https://arxiv.org/abs/2312.09482.  
+
+$2.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes, 2023, https://arxiv.org/abs/2310.12511.  
+
+$3.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
+
+$4.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
+
+$5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
 
 ## Publication  
 
-2024 
+2024  
 
 $11.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00699-x.  
 
-2023 
+2023  
 
 $10.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3298379.  
 
