@@ -24,7 +24,8 @@ E-mail: lishitao0216@163.com
 
 2. ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 
-3. Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
+3. Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.
+
 4. ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, 2023, https://arxiv.org/abs/2312.09482.  
 
 ## Publication  
