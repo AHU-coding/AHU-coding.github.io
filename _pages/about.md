@@ -20,6 +20,10 @@ E-mail: lishitao0216@163.com
 
 ## Preprints  
 
+$1.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, 2023, https://arxiv.org/abs/2312.09482.  
+
+$2.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes, 2023, https://arxiv.org/abs/2310.12511.  
+
 $3.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 
 $4.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
