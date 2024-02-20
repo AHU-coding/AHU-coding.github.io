@@ -22,6 +22,12 @@ E-mail: lishitao0216@163.com
 
 
 
+## Publication  
+
+2024  
+
+$11.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00699-x.  
+
 2023  
 
 $10.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3298379.  
