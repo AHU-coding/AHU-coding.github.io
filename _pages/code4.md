@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-Database for the paper “A mass formula of linear codes with prescribed hull dimension and related classification”
+Database for the paper “A mass formula for linear codes with prescribed hull dimension and related classification”
 
-### Table 1: Ternary linear codes with one-dimensional Euclidean hull (h=1)
+### Table 1: Ternary linear codes with one-dimensional hull (h=1)
 
 [[3, 1]](https://AHU-coding.github.io/files/1-[3,1]-3.txt), [[3, 2]](https://AHU-coding.github.io/files/1-[3,2]-3.txt)  
 [[4, 1]](https://AHU-coding.github.io/files/1-[4,1]-3.txt), [[4, 2]](https://AHU-coding.github.io/files/1-[4,2]-3.txt), [[4, 3]](https://AHU-coding.github.io/files/1-[4,3]-3.txt)  
@@ -22,7 +22,7 @@ Database for the paper “A mass formula of linear codes with prescribed hull di
 [[8, 1]](https://AHU-coding.github.io/files/1-[8,1]-3.txt), [[8, 2]](https://AHU-coding.github.io/files/1-[8,2]-3.txt), [[8, 3]](https://AHU-coding.github.io/files/1-[8,3]-3.txt), [[8, 4]](https://AHU-coding.github.io/files/1-[8,4]-3.txt), [[8, 5]](https://AHU-coding.github.io/files/1-[8,5]-3.txt), [[8, 6]](https://AHU-coding.github.io/files/1-[8,6]-3.txt), [[8, 7]](https://AHU-coding.github.io/files/1-[8,7]-3.txt)  
 [[9, 1]](https://AHU-coding.github.io/files/1-[9,1]-3.txt), [[9, 2]](https://AHU-coding.github.io/files/1-[9,2]-3.txt), [[9, 3]](https://AHU-coding.github.io/files/1-[9,3]-3.txt), [[9, 4]](https://AHU-coding.github.io/files/1-[9,4]-3.txt), [[9, 5]](https://AHU-coding.github.io/files/1-[9,5]-3.txt), [[9, 6]](https://AHU-coding.github.io/files/1-[9,6]-3.txt), [[9, 7]](https://AHU-coding.github.io/files/1-[9,7]-3.txt), [[9, 8]](https://AHU-coding.github.io/files/1-[9,8]-3.txt)  
 
-### Table 1': Optimal ternary linear codes with one-dimensional Euclidean hull (h=1)
+### Table 1': Optimal ternary linear codes with one-dimensional hull (h=1)
 
 [[3, 1, 3]](https://AHU-coding.github.io/files/1-[3,1,3]-3.txt), [[3, 2, 2]](https://AHU-coding.github.io/files/1-[3,2,2]-3.txt)   
 [[4, 1, 3]](https://AHU-coding.github.io/files/1-[4,1,3]-3.txt), [[4, 2, 2]](https://AHU-coding.github.io/files/1-[4,2,2]-3.txt), [[4, 3, 1]](https://AHU-coding.github.io/files/1-[4,3,1]-3.txt)  
