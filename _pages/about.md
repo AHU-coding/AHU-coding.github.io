@@ -22,6 +22,8 @@ E-mail: lishitao0216@163.com
 
 
 
+$5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
+
 ## Publication  
 
 2024  
