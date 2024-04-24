@@ -34,15 +34,15 @@ $5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and 
 
 2024  
 
-$13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00699-x.  
+$13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
 
-$12.$ Ruowen Liu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2024, Doi: 10.3934/amc.2024013.  
+$12.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, https://doi.org/10.1007/s12095-024-00699-x.  
 
-$11.$ Shixin Zhu, Yang Li, ${\bf {\small Shitao~Li}}$, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 2024, 96: 102425.  
+$11.$ Ruowen Liu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2024, Doi: 10.3934/amc.2024013.  
+
+$10.$ Shixin Zhu, Yang Li, ${\bf {\small Shitao~Li}}$, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 2024, 96: 102425.  
 
 2023  
-
-$10.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2023, doi: 10.1109/TIT.2023.3298379.  
 
 $9.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, Discrete Mathematics, 2023, 346(9): 113484.  
 
