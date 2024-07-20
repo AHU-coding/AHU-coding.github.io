@@ -34,13 +34,15 @@ $5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and 
 
 2024  
 
-$14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.  
+$15.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.  
 
-$13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
+$14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
 
-$12.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
+$13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
 
-$11.$ Ruowen Liu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2024, Doi: 10.3934/amc.2024013.  
+$12.$ Ruowen Liu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2024, Doi: 10.3934/amc.2024013.  
+
+$11.$ Yang Li, ${\bf {\small Shitao~Li}}$, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, https://doi.org/10.1007/s10623-024-01460-4.  
 
 $10.$ Shixin Zhu, Yang Li, ${\bf {\small Shitao~Li}}$, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 2024, 96: 102425.  
 
