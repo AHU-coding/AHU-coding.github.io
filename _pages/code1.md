@@ -11,7 +11,7 @@ redirect_from:
 
 # LCD codes
 
-Database for the paper "Several constructions of optimal LCD codes over small finite fields"
+Database for the paper "Shitao Li, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800."
 
 ## Binary LCD codes
 
