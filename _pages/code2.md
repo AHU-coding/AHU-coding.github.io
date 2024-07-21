@@ -11,7 +11,7 @@ redirect_from:
 
 # Quaternary linear codes with one-dimensional Hermitian hull
 
-Database for the paper "Optimal quaternary linear codes with one-dimensional Hermitian hull and related EAQECCs"
+Database for the paper "Shitao Li, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and related EAQECCs, Quantum Information Processing, 2023, 22(10): 388."
 
 ### Quaternary linear codes with one-dimensional Hermitian hull for $n≤12$.
 
