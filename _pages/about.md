@@ -40,6 +40,8 @@ $14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication
 
 $13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
 
+$13.$ Tingting Tong, ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classification of optimal ternary linear one-dimensional hull codes, Journal of Applied Mathematics and Computing, 2024, https://doi.org/10.1007/s12190-024-02192-3.  
+
 $12.$ Ruowen Liu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2024, Doi: 10.3934/amc.2024013.  
 
 $11.$ Yang Li, ${\bf {\small Shitao~Li}}$, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, https://doi.org/10.1007/s10623-024-01460-4.  
