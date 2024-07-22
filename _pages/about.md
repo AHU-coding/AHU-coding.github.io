@@ -34,11 +34,11 @@ $5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and 
 
 2024  
 
-$15.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.  
+$16.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.  
 
-$14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
+$15.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
 
-$13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
+$14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
 
 $13.$ Tingting Tong, ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classification of optimal ternary linear one-dimensional hull codes, Journal of Applied Mathematics and Computing, 2024, https://doi.org/10.1007/s12190-024-02192-3.  
 
