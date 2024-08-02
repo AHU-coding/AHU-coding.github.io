@@ -22,21 +22,21 @@ E-mail: lishitao0216@163.com
 
 $1.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, 2023, https://arxiv.org/abs/2312.09482.  
 
-$2.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes, 2023, https://arxiv.org/abs/2310.12511.  
+$2.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 
-$3.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
+$3.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
 
-$4.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
-
-$5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
+$4.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
 
 ## Publication  
 
 2024  
 
-$16.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.  
+$17.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.  
 
-$15.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
+$16.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
+
+$15.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3436923. 
 
 $14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
 
