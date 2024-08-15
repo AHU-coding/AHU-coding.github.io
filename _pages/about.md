@@ -26,7 +26,7 @@ $2.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary
 
 $3.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
 
-$4.$ Hongwei Zhu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://doi.org/10.48550/arXiv.2404.02471.  
+$4.$ Hongwei Zhu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
 
 ## Publication  
 
