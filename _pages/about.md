@@ -38,7 +38,7 @@ $17.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linea
 
 $16.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classfication of binary linear codes with various hull dimensions from an improved mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.  
 
-$15.$ Minjia Shi, ${\bf {\small Shitao~Li}}^*$, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3436923. 
+$15.$ Minjia Shi, ${\bf {\small Shitao~Li}}^*$, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes, IEEE Transactions on Information Theory, 2024, 70(9): 6316-6325. 
 
 $14.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
 
