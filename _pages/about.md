@@ -28,6 +28,8 @@ $3.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and 
 
 $4.$ Hongwei Zhu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
 
+$5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
+
 ## Publication  
 
 2024  
