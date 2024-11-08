@@ -48,7 +48,7 @@ $13.$ Tingting Tong, ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization an
 
 $12.$ Ruowen Liu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2024, Doi: 10.3934/amc.2024013.  
 
-$11.$ Yang Li, ${\bf {\small Shitao~Li}}$, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, https://doi.org/10.1007/s10623-024-01460-4.  
+$11.$ Yang Li, ${\bf {\small Shitao~Li}}$, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, 92(11): 3723-3751.  
 
 $10.$ Shixin Zhu, Yang Li, ${\bf {\small Shitao~Li}}$, Symplectic self-orthogonal and linear complementary dual codes from the Plotkin sum construction, Finite Fields and Their Applications, 2024, 96: 102425.  
 
