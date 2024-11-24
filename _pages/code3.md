@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Database for the paper “Shitao Li, Minjia Shi, Characterization and classifiation of binary linear codes with various hull dimensions from an improved
+Database for the paper “Shitao Li, Minjia Shi, Characterization and classification of binary linear codes with various hull dimensions from an improved
 mass formula, IEEE Transactions on Information Theory, 2024, 70(5): 3357-3372.”
 
 ### Table 1: Binary linear codes with one-dimensional hull (h=1)
