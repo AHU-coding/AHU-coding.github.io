@@ -30,6 +30,8 @@ $4.$ Hongwei Zhu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Shu-Tao Xia, Patrick S
 
 $5.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
 
+$6.$ Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Ferruh \"{O}zbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.  
+
 ## Publication  
 
 2024  
