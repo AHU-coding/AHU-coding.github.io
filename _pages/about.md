@@ -50,7 +50,7 @@ $14.$ Minjia Shi, ${\bf {\small Shitao~Li}}^*$, Tor Helleseth, The weight enumer
 
 $13.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Huizhou Liu, Several constructions of optimal LCD codes over small finite fields, Cryptography and Communications, 2024, 16(4): 779–800.  
 
-$12.$ Tingting Tong, ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classification of optimal ternary linear one-dimensional hull codes, Journal of Applied Mathematics and Computing, 2024, https://doi.org/10.1007/s12190-024-02192-3.  
+$12.$ Tingting Tong, ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization and classification of optimal ternary linear one-dimensional hull codes, Journal of Applied Mathematics and Computing, 2024, 70(6): 5557-5574.  
 
 $11.$ Yang Li, ${\bf {\small Shitao~Li}}$, Shixin Zhu, New and improved formally self-dual codes with small hulls from polynomial four Toeplitz codes, Designs, Codes and Cryptography, 2024, 92(11): 3723-3751.  
 
