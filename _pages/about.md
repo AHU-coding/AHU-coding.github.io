@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AHU-coding"
+title: "李世涛(Shitao Li)"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-李世涛(Shitao Li)
 
 E-mail: lishitao0216@163.com
 
