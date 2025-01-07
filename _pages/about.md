@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<pre>
-.post-title {
-margin: 0 0 5px;
 
 E-mail: lishitao0216@163.com
 
@@ -27,19 +24,16 @@ E-mail: lishitao0216@163.com
 4. Hongwei Zhu, **Shitao Li**, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
 5. **Shitao Li**, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
 6. Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.  
-
-}
-</pre>
   
 ## Publication  
 
 2025  
 
-<font size=3px weight=bold>[19] Shitao Li, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, IEEE Transactions on Information Theory, 2025, 71(1): 219-226.  </font>  
+<font size=3px> [19] Shitao Li, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, IEEE Transactions on Information Theory, 2025, 71(1): 219-226.  </font>  
 
-<font size=3>[18]</font> **<font size=3>Shitao Li</font>**<font size=3>, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification,</font> ***<font size=3>IEEE Transactions on Information Theory</font>***<font size=3>, 2025, 71(1): 273-286.</font>  
+  <font size=3> [18]</font> **<font size=3>Shitao Li</font>**<font size=3>, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification,</font> ***<font size=3>IEEE Transactions on Information Theory</font>***<font size=3>, 2025, 71(1): 273-286.</font>  
 
-<font size=3>[17] Juan Wang,</font>
+<font size=3> [17] Juan Wang,</font>
 **<font size=3>Shitao Li</font>**<font size=3>, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.</font>  
 
 <font size=3>[16] Ruowen Liu,</font> **<font size=3>Shitao Li</font>**<font size=3>, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, Advances in Mathematics of Communications, 2025, 19(2): 588-603.</font>  
