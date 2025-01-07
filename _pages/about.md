@@ -18,6 +18,17 @@ E-mail: lishitao0216@163.com
 ### 2016.09~2020.06, Bachelor's degree in Mathematics, Anhui University.
 
 ## Preprints  
+1. lilili
+2. lll
+3. ssss
+4. dddd
+5. ddd
+6. dd
+7. dd
+8. dd
+9. dd
+10. d
+
 
 $1.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 
