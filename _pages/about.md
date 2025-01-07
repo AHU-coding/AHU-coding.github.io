@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<pre>
+.post-title {
+margin: 0 0 5px;
 
 E-mail: lishitao0216@163.com
 
@@ -25,11 +28,14 @@ E-mail: lishitao0216@163.com
 5. **Shitao Li**, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
 6. Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.  
 
+}
+</pre>
+  
 ## Publication  
 
 2025  
 
-<font size=10px weight=bold>[19] Shitao Li, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, IEEE Transactions on Information Theory, 2025, 71(1): 219-226.  </font>  
+<font size=3px weight=bold>[19] Shitao Li, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, IEEE Transactions on Information Theory, 2025, 71(1): 219-226.  </font>  
 
 <font size=3>[18]</font> **<font size=3>Shitao Li</font>**<font size=3>, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification,</font> ***<font size=3>IEEE Transactions on Information Theory</font>***<font size=3>, 2025, 71(1): 273-286.</font>  
 
