@@ -33,7 +33,7 @@ $19.$ **Shitao Li**, Minjia Shi, San Ling, An open problem and a conjecture on b
 
 $18.$ **Shitao Li**, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, ***IEEE Transactions on Information Theory***, 2025, 71(1): 273-286.  
 
-$17.$ Juan Wang, **Shitao Li**, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, *Journal of Applied Mathematics and Computing*, https://doi.org/10.1007/s12190-024-02326-7.  
+$17.$ Juan Wang, **Shitao Li^*^**, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, *Journal of Applied Mathematics and Computing*, https://doi.org/10.1007/s12190-024-02326-7.  
 
 $16.$ Ruowen Liu, **Shitao Li**, Minjia Shi, Construction of linear codes with various Hermitian hull dimensions and related EAQECCs, *Advances in Mathematics of Communications*, 2025, 19(2): 588-603.  
 
