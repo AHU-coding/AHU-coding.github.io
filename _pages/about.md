@@ -13,9 +13,9 @@ E-mail: lishitao0216@163.com
 
 ### Research directions: Algebraic coding and Cryptography
 
-### 2022.09~present, PhD in mathematics, Anhui University.
-### 2020.09~2022.06, Master's degree in mathematics, Anhui University.
-### 2016.09~2020.06, Bachelor's degree in Mathematics, Anhui University.
+- ### 2022.09~present, PhD in mathematics, Anhui University.
+- ### 2020.09~2022.06, Master's degree in mathematics, Anhui University.
+- ### 2016.09~2020.06, Bachelor's degree in Mathematics, Anhui University.
 
 ## Preprints  
 1. **Shitao Li**, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
