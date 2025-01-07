@@ -30,7 +30,7 @@ E-mail: lishitao0216@163.com
 
 2025  
 
-<font size=3>[19] {\bf Shitao Li}, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, ***IEEE Transactions on Information Theory***, 2025, 71(1): 219-226.<\font>  
+<font size=3> [19] ${\bf Shitao~Li}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, ***IEEE Transactions on Information Theory***, 2025, 71(1): 219-226.  
 
 [18] **Shitao Li**, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, ***IEEE Transactions on Information Theory***, 2025, 71(1): 273-286.  
 
