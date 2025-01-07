@@ -18,20 +18,20 @@ E-mail: lishitao0216@163.com
 ### 2016.09~2020.06, Bachelor's degree in Mathematics, Anhui University.
 
 ## Preprints  
-1. ${\bf {\small Shitao~Li}}$, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
-2. Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
-3. ${\bf {\small Shitao~Li}}$, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
-4. Hongwei Zhu, ${\bf {\small Shitao~Li}}$, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
-5. ${\bf {\small Shitao~Li}}$, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
-6. Minjia Shi, ${\bf {\small Shitao~Li}}$, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.  
+1. **Shitao Li**, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
+2. Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
+3. **Shitao Li**, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
+4. Hongwei Zhu, **Shitao Li**, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
+5. **Shitao Li**, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
+6. Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.  
 
 ## Publication  
 
 2025  
 
-$19.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, IEEE Transactions on Information Theory, 2025, 71(1): 219-226.  
+$19.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, *IEEE Transactions on Information Theory*, 2025, 71(1): 219-226.  
 
-$18.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2025, 71(1): 273-286.  
+$18.$ ${\bf {\small Shitao~Li}}$, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, *IEEE Transactions on Information Theory*, 2025, 71(1): 273-286.  
 
 $17.$ Juan Wang, ${\bf {\small Shitao~Li}}^*$, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, Journal of Applied Mathematics and Computing, https://doi.org/10.1007/s12190-024-02326-7.  
 
