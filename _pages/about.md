@@ -18,13 +18,13 @@ E-mail: lishitao0216@163.com
 - ### 2016.09~2020.06, Bachelor's degree in Mathematics, Anhui University.
 
 ## Preprints  
-{font-size: 3px;
+<font size=3px>
 1. **Shitao Li**, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 2. Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, 2023, https://arxiv.org/abs/2303.16729.  
 3. **Shitao Li**, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
 4. Hongwei Zhu, **Shitao Li**, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
 5. **Shitao Li**, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
-6. Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.}  
+6. Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, 2024, https://arxiv.org/abs/2411.14087.<\font>  
   
 ## Publication  
 
