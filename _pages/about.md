@@ -40,7 +40,7 @@ E-mail: lishitao0216@163.com
 
 2024  
 
-<font size=3>[15]</font> **<font size=3>Shitao Li</font>**<font size=3>, Minjia Shi, Characterization and classification of binary linear codes with various hull dimensions from an improved mass formula,</font> ***<font size=3>IEEE Transactions on Information Theory</font>***<font size=3 >, 2024, 70(5): 3357-3372.</font>  
+<font size=3>[15]</font> **Shitao Li**<font size=3>, Minjia Shi, Characterization and classification of binary linear codes with various hull dimensions from an improved mass formula,</font> ***<font size=3>IEEE Transactions on Information Theory</font>***<font size=3 >, 2024, 70(5): 3357-3372.</font>  
 
 <font size=3>[14] Minjia Shi,</font> **<font size=3>Shitao Li</font>**<font size=3>, Tor Helleseth, The weight enumerator polynomials of the lifted codes of the projective Solomon-Stiffler codes,</font>  ***<font size=3 > IEEE Transactions on Information Theory</font>***<font size=3>, 2024, 70(9): 6316-6325.</font> 
 
