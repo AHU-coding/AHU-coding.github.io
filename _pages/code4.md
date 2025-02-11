@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Database for the paper “Shitao Li, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2024, doi: 10.1109/TIT.2024.3425058.”
+Database for the paper “Shitao Li, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, IEEE Transactions on Information Theory, 2025, 71(1): 273-286.”
 
 ### Table 1: Ternary linear codes with one-dimensional hull (h=1)
 
