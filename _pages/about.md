@@ -56,15 +56,15 @@ E-mail: lishitao0216@163.com
 
 2023  
 
-[9]**Shitao Li**, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, *Discrete Mathematics*, 2023, 346(9): 113484.  
+[9] Minjia Shi, **Shitao Li**, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, ***IEEE Transactions on Information Theory***, 2023, 69(7): 4507-4512.  
 
 [8] **Shitao Li**, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, *Designs, Codes and Cryptography*, 2023, 91(7): 2563-2583.  
 
-[7] **Shitao Li**, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and related EAQECCs, *Quantum Information Processing*, 2023, 22(10): 388.  
+[7] **Shitao Li**, Minjia Shi, Huizhou Liu, On Toeplitz codes of index $t$ and isometry codes, *Discrete Mathematics*, 2023, 346(9): 113484.  
 
-[6] **Shitao Li**, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$, *Journal of Applied Mathematics and Computing*, 2023, 69(1): 201–218.  
+[6] **Shitao Li**, Minjia Shi, Huizhou Liu, Optimal quaternary linear codes with one-dimensional Hermitian hull and related EAQECCs, *Quantum Information Processing*, 2023, 22(10): 388.  
 
-[5] Minjia Shi, **Shitao Li**, Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, ***IEEE Transactions on Information Theory***, 2023, 69(7): 4507-4512.  
+[5] **Shitao Li**, Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$, *Journal of Applied Mathematics and Computing*, 2023, 69(1): 201–218.  
 
 [4] Minjia Shi, **Shitao Li**, Jon-Lark Kim, Patrick Solé, The adjacency codes of the first yellow graphs, *Journal of Systems Science and Complexity*, 2023, 36(4): 1757–1768.  
 
