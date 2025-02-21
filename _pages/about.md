@@ -30,7 +30,7 @@ E-mail: lishitao0216@163.com
 
 [21] Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, to appear in ***Journal of Combinatorial Theory, Series A***.  
 
-[20] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, to appear in ***IEEE Transactions on Information Theory***.  
+[20] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, ***IEEE Transactions on Information Theory***, 2025, doi: 10.1109/TIT.2025.3544025.  
 
 [19] **Shitao Li**, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, ***IEEE Transactions on Information Theory***, 2025, 71(1): 219-226.  
 
