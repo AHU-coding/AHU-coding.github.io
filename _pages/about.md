@@ -28,13 +28,15 @@ E-mail: lishitao0216@163.com
 
 2025  
 
-[21] Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, ***Journal of Combinatorial Theory, Series A***, 2025, 214: 106027.  
+[22] Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, ***Journal of Combinatorial Theory, Series A***, 2025, 214: 106027.  
 
-[20] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, ***IEEE Transactions on Information Theory***, 2025, doi: 10.1109/TIT.2025.3544025.  
+[21] **Shitao Li**, Gaojun Luo, Minjia Shi, San Ling, On the error coefficients of asymptotic frame error rate optimal binary linear codes, ***IEEE Transactions on Information Theory***, 2025, DOI: 10.1109/TIT.2025.3566543.  
+
+[20] **Shitao Li**, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, ***IEEE Transactions on Information Theory***, 2025, 71(1): 273-286.  
 
 [19] **Shitao Li**, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, ***IEEE Transactions on Information Theory***, 2025, 71(1): 219-226.  
 
-[18] **Shitao Li**, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, ***IEEE Transactions on Information Theory***, 2025, 71(1): 273-286.  
+[18] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, ***IEEE Transactions on Information Theory***, 2025, 71(5): 3602-3613.  
 
 [17] Juan Wang, **Shitao Li**, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, *Journal of Applied Mathematics and Computing*, 2025, 71(2): 2505-2525.  
 
