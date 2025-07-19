@@ -41,7 +41,7 @@ E-mail: lishitao0216@163.com
 
 [19] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, ***IEEE Transactions on Information Theory***, 2025, 71(5): 3602-3613.  
 
-[18] Chaofeng Guan, **Shitao Li**, Gaojun Luo, Zhi Ma, Hong Wang, Lower bounds for error coefficients of Griesmer optimal linear codes via iteration, 2025, doi: 10.1109/TIT.2025.3587759.
+[18] Chaofeng Guan, **Shitao Li**, Gaojun Luo, Zhi Ma, Hong Wang, Lower bounds for error coefficients of Griesmer optimal linear codes via iteration, ***IEEE Transactions on Information Theory***, 2025, doi: 10.1109/TIT.2025.3587759.
 
 [17] Juan Wang, **Shitao Li**, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, *Journal of Applied Mathematics and Computing*, 2025, 71(2): 2505-2525.  
 
