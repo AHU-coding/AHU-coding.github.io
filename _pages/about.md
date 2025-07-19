@@ -21,22 +21,27 @@ E-mail: lishitao0216@163.com
 
 1. **Shitao Li**, Minjia Shi, Characterization of Plotkin-optimal two-weight codes over finite chain rings and related applications, 2023, https://arxiv.org/abs/2305.08561.  
 2. **Shitao Li**, Minjia Shi, Jon-Lark Kim, Characterization and construction of optimal binary linear codes with one-dimensional hull, 2023, https://arxiv.org/abs/2211.02480.  
-3. Hongwei Zhu, **Shitao Li**, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2024, https://arxiv.org/abs/2404.02471.  
-4. **Shitao Li**, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
+3. **Shitao Li**, Minjia Shi, Yang Li, San Ling, A further study on the mass formula for linear codes with prescribed hull dimension, 2024, https://arxiv.org/abs/2410.13578.  
   
 ## Publication  
 
+2026  
+
+[24] Hongwei Zhu, **Shitao Li**, Minjia Shi, Shu-Tao Xia, Patrick Solé, Some bounds on the cardinality of the b-symbol weight spectrum of codes, 2026, 349(1): 114678.  
+
 2025  
 
-[22] Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, ***Journal of Combinatorial Theory, Series A***, 2025, 214: 106027.  
+[23] Minjia Shi, **Shitao Li**, Tor Helleseth, Jon-Lark Kim, Binary self-orthogonal codes which meet the Griesmer bound or have optimal minimum distances, ***Journal of Combinatorial Theory, Series A***, 2025, 214: 106027.  
 
-[21] **Shitao Li**, Gaojun Luo, Minjia Shi, San Ling, On the error coefficients of asymptotic frame error rate optimal binary linear codes, ***IEEE Transactions on Information Theory***, 2025, DOI: 10.1109/TIT.2025.3566543.  
+[22] **Shitao Li**, Gaojun Luo, Minjia Shi, San Ling, On the error coefficients of asymptotic frame error rate optimal binary linear codes, ***IEEE Transactions on Information Theory***, 2025, 71(7): 5144-5153.  
 
-[20] **Shitao Li**, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, ***IEEE Transactions on Information Theory***, 2025, 71(1): 273-286.  
+[21] **Shitao Li**, Minjia Shi, San Ling, A mass formula for linear codes with prescribed hull dimension and related classification, ***IEEE Transactions on Information Theory***, 2025, 71(1): 273-286.  
 
-[19] **Shitao Li**, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, ***IEEE Transactions on Information Theory***, 2025, 71(1): 219-226.  
+[20] **Shitao Li**, Minjia Shi, San Ling, An open problem and a conjecture on binary linear complementary pairs of codes, ***IEEE Transactions on Information Theory***, 2025, 71(1): 219-226.  
 
-[18] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, ***IEEE Transactions on Information Theory***, 2025, 71(5): 3602-3613.  
+[19] Minjia Shi, **Shitao Li**, Tor Helleseth, Ferruh Özbudak, Determining the covering radius of all generalized Zetterberg codes in odd characteristic, ***IEEE Transactions on Information Theory***, 2025, 71(5): 3602-3613.  
+
+[18] Chaofeng Guan, **Shitao Li**, Gaojun Luo, Zhi Ma, Hong Wang, Lower bounds for error coefficients of Griesmer optimal linear codes via iteration, 2025, doi: 10.1109/TIT.2025.3587759.
 
 [17] Juan Wang, **Shitao Li**, Yang Li, Yan Liu, Asymptotically good four Toeplitz codes and derived new formally self-dual LCD codes, *Journal of Applied Mathematics and Computing*, 2025, 71(2): 2505-2525.  
 
